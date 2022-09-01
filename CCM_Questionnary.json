@@ -1,0 +1,1642 @@
+[
+  {
+    "surveyId": 25,
+    "surveyType": "CCM Cockpit",
+    "surveyDate": "2022-04-30T00:00:00Z",
+    "engagementId": 54457,
+    "questions": [
+      {
+        "questionId": "0e2b28ff-7c73-45b4-ac7e-c2c70b287355",
+        "questionText": "1. 1. Was a S2D session held before you start the project execution?",
+        "questionCategory": "1. Sales to Delivery (S2D) / Contractual Awareness",
+        "answer": 4
+      },
+      {
+        "questionId": "bf41034b-aaaf-4a2b-bf88-b2f1a72bd56e",
+        "questionText": "1. 2. Are there refresh contractual awareness sessions to the Delivery teams to update them on the contractual changes (CRs, amendments, new SOWs, ...)?",
+        "questionCategory": "1. Sales to Delivery (S2D) / Contractual Awareness",
+        "answer": 3
+      },
+      {
+        "questionId": "40f7c812-8641-4bbe-8533-d5e55c73fb75",
+        "questionText": "2. 1. Do you have the contract and all the correlated contractual documents?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "4eb396e0-9f59-46e3-870d-52d05be03ebc",
+        "questionText": "2. 2. Are the contract and all the correlated contractual documents stored in e-Collaborative?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "f35a13da-2411-4896-ba9d-3bc776619ba0",
+        "questionText": "2. 3. Are the contract and all the correlated contractual documents signed?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "0e035222-a020-4e4f-a6b3-fa856b335d20",
+        "questionText": "2. 4. Did you read the contract and all the correlated contractual documents?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "23fa9266-9da1-4e50-9de3-57549b0008d2",
+        "questionText": "2. 5. In case you have any doubt on the understanding of the contract and all the correlated contractual documents, did you ask for CCM support?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "1e595d03-a3b7-4110-bf27-0d5d1b57a02b",
+        "questionText": "2. 6. In case of specific and non usual demands from the client (e.g.: audit, benchmarking, COVID, ...), did you request the support from CCM?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "5d105087-e127-4020-b073-b270c8e379f2",
+        "questionText": "3. 1. Is engagement management documentation stored in e-Collaborative?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": -4
+      },
+      {
+        "questionId": "f64efc2b-40d9-4f1c-9fd1-95948d79ac51",
+        "questionText": "3. 2. Are client status report and minutes of client meetings being systematically created, formalizing the main problems of the project?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": -4
+      },
+      {
+        "questionId": "bd6a80f8-9dec-4ad5-828b-500615cd28e6",
+        "questionText": "3. 3. Are the problems (non related to Capgemini) and breach of obligations/assumptions being formalized to the client (via email, notification), in order to maximize our position in future negotiations?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 4
+      },
+      {
+        "questionId": "cf085f5c-8758-48d0-b5af-19bda322db02",
+        "questionText": "3. 4. Is the \"wording\" used in our documents protecting Capgemini from (i) misinterpretation and/or (ii) putting the client in a favorable position to claim anything against Capgemini?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 4
+      },
+      {
+        "questionId": "91991ea3-2afd-43a3-aab2-427c09dbb929",
+        "questionText": "3. 5. Is there a systematic process in place to ensure the collection and storage of the documents of the team leaving the project (e.g: attrition)?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 4
+      },
+      {
+        "questionId": "04b22bc3-d40a-4980-9a23-88bc6f519afb",
+        "questionText": "4. 1. Is the governance defined in the contract being systematically used (frequency of meetings, escalation, participants, formalization of the decisions, ...)?",
+        "questionCategory": "4. Contractual Governance",
+        "answer": 0
+      },
+      {
+        "questionId": "dd9d8bdf-b8c2-497f-a816-b147bd05285d",
+        "questionText": "5. 1. Are the services starting only after a respective service order is open?",
+        "questionCategory": "5. Service Orders",
+        "answer": 1
+      },
+      {
+        "questionId": "6e144034-fec2-427a-a36d-a32866af296b",
+        "questionText": "5. 2. Is the clause for confirming or refusing a service order being applied?",
+        "questionCategory": "5. Service Orders",
+        "answer": 0
+      },
+      {
+        "questionId": "1bb79430-0210-4334-bb2c-ef1d7bb05d53",
+        "questionText": "6. 1. Are you getting all the necessary acceptance terms, as per defined in the contract?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 4
+      },
+      {
+        "questionId": "b373db08-8d63-44d2-a70a-00a26af5f7d6",
+        "questionText": "6. 2. Is the acceptance criteria for each deliverable being respected?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 4
+      },
+      {
+        "questionId": "42bc3cb6-9930-4d92-8b8e-c99620cbffc0",
+        "questionText": "6. 3. Is the client providing the acceptance terms within the the defined contractual period?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 4
+      },
+      {
+        "questionId": "176b97fa-42c0-4772-b30f-624333c056d3",
+        "questionText": "6. 4. In case (i) the client is not providing the acceptance terms within the defined contractual period, and (ii) the contract contains a clause for deemed acceptance, are you using this clause to enforce the process of acceptance and invoicing?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 4
+      },
+      {
+        "questionId": "b1384e20-7c67-42e0-9997-470c99adb9bc",
+        "questionText": "6. 5. In case there is a clause allowing Capgemini to receive partial acceptance of deliverables not in dispute, are you using this clause to enforce the respective invoice?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 4
+      },
+      {
+        "questionId": "7b9599c3-06e1-4100-8e2f-b3644a6a6b6e",
+        "questionText": "6. 6. In case there are delays in Capgemini's activities due to dependencies from the client, did you escalate and formalize the problem using the contractual governance process?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 4
+      },
+      {
+        "questionId": "4cf1745b-423c-4a3c-8f3b-38000d6dde6c",
+        "questionText": "7. 1. Is the clause to review the volume band/baseline of tickets being properly applied, as per the frequency defined in the contract?",
+        "questionCategory": "7. Volume band/ARCs/RRCs management",
+        "answer": 0
+      },
+      {
+        "questionId": "6781302e-6fe4-4411-9b9b-86e1f147590c",
+        "questionText": "7. 2. Are the rules for ARCs (Additional Resource Charge) and RRCs (Reduced Resource Charge) being properly applied?",
+        "questionCategory": "7. Volume band/ARCs/RRCs management",
+        "answer": 0
+      },
+      {
+        "questionId": "5c69b24b-04ae-4eab-9ebc-ada8369d5aaa",
+        "questionText": "8. 1. Are the milestones being invoiced as planned in the contract?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "236bbc79-3a38-44be-8e23-f84b3cc122fd",
+        "questionText": "8. 2. In case there are services that were suspended or cancelled after have been initiated, were they invoiced (if allowed by the contract)?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "7d7d6971-beb7-41b8-8305-1bfb7a1b1821",
+        "questionText": "8. 3. Are the invoices being issued respecting the agreed dates and having all the necessary information/documentation?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "d2a08705-d560-4248-8287-45d9432052ca",
+        "questionText": "8. 4. Is the client paying within the term defined in the contract?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "9f932008-f0f6-4ce6-9333-51327bbe16cd",
+        "questionText": "8. 5. In case the client delays the payment, are the penalties being pushed towards the client?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "4986577a-9a34-4b8a-8526-4263fbb92138",
+        "questionText": "8. 6. Did you invoice the overtime hours?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "3d34a171-1607-4296-9443-43e9c036c663",
+        "questionText": "8. 7. Did you invoice the extra baseline?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "44f608e1-e930-40b1-b400-f9c4a7797e6d",
+        "questionText": "8. 8. Did you invoice the expenses?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "f470f6d9-3f8a-40e5-8190-b3888af71d4a",
+        "questionText": "9. 1. Is there a tool to manage the SLAs?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "0896947d-ed76-45fb-9a03-d06664e43724",
+        "questionText": "9. 2. If there is a tool, is it measuring the SLAs correctly?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "28313eaa-788b-4031-bb4e-cb9ac47f7b1b",
+        "questionText": "9. 3. Is the contractual process to apply a penalty being correctly applied?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "48b9f42c-dc35-44d6-a391-d5e0f89540b4",
+        "questionText": "9. 4. Is the contractual process to apply a SLA being correctly applied?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "925ce8c8-0402-4a60-8f2f-a3f083c27132",
+        "questionText": "9. 5. Is the contractual process to apply a Bonus (Earn Back) being correctly applied?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "5bfa513c-26de-4ca5-9bac-1a2454b53a3e",
+        "questionText": "9. 6. In case the penalty and/or the SLA is being applied, is the contractual cap being respected?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "712d6be3-b841-429a-a8db-a641068a228c",
+        "questionText": "9. 7. Did you use the clause to review the SLAs as per the rules defined in the contract (if applicable)?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "4c92c1ed-dc49-44d0-b7f9-c8768ba4f9cd",
+        "questionText": "9. 8. Are you using the relief clause to avoid penalties?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "38849c4b-60ff-473f-abb2-0a0379faef23",
+        "questionText": "10. 1. Is COLA being applied?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "53529b2a-c7b1-4e42-8329-8768ebc6f0a8",
+        "questionText": "10. 2. In case there was a change in tax legislation, did you charge it from the client?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "6a3375d4-60c6-45dc-ad11-7040c318f329",
+        "questionText": "10. 3. In case there are certain obligations and/or assumptions (under client's responsibility) necessary to be accomplished to apply a contractual price reduction: have they been accomplished?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "09303cd0-c067-4d5b-93df-bb28c31aff40",
+        "questionText": "10. 4. In case these obligations and/or assumptions were not accomplished, did you escalate and formalize the problem using the contractual governance provision?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "397d9881-e740-4ebb-8b80-b3fffd0556b3",
+        "questionText": "10. 5. In case (i) there were planned some automation to reduce Capgemini's cost and (ii) there are dependencies from client: have they been accomplished?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "be0ecfb1-b289-426d-bc2a-d92d360b1b04",
+        "questionText": "10. 6. In case these dependencies were not accomplished, did you escalate and formalize the problem using the contractual governance provision?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "dd5112bd-36fd-470a-9e09-090033fb18ba",
+        "questionText": "11. 1. Did you follow the contractual process with the client to use subcontractors?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "e9e80986-4eaf-4eba-959e-398806f7122e",
+        "questionText": "11. 2. Do you have the respective contracts with the suppliers?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "3dbfbc4c-4236-46db-8ae0-54e71a76e2c8",
+        "questionText": "11. 3. Are the contracts with the suppliers stored in e-Collaborative?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "000b7dbe-2847-4e64-a944-69ad318bf6cf",
+        "questionText": "11. 4. Are the contracts with the suppliers signed?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "1c3d15a4-89e2-4f88-8dbd-1f557c1d0c14",
+        "questionText": "11. 5. Did you read the contracts with the suppliers?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "f187fc4e-e48e-427e-b1dd-275942e0a6d7",
+        "questionText": "11. 6. In case you have any doubt on the understanding of the contracts with the suppliers, did you ask for CCM support?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "46edba0c-43a8-485b-a8df-6f9ef20e841d",
+        "questionText": "11. 7. Is the contractual process to accept the subcontractor's invoice being respected?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "a86c427d-9f31-45a3-b12f-a543ae49bcf2",
+        "questionText": "11. 8. Is the supplier being penalyzed as per the rules of the contract?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "ef366066-559e-417e-858e-6796486ae21c",
+        "questionText": "11. 9. Did you formalize to the subcontractor the issues caused by it?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "30a0ee04-9dd7-4731-a177-878b6d9fb87f",
+        "questionText": "11. 10. In case Capgemini is penalized by the client due to a problem originally caused by the subcontractor, did you pass the penalty to it (if feasible by the contract)?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "2cdaedee-b861-482a-97ea-f5aea12546d8",
+        "questionText": "11. 11. Are you respecting the maximum amount to be paid to the subcontractor?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "9b203d44-97d6-44cc-9e22-4949afbdc866",
+        "questionText": "11. 12. In case there are discounts planned in the contract (e.g.: depending on volumes, ...), are they being applied?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "601b9dee-a843-4db4-bacc-62df090f886f",
+        "questionText": "12. 1. Is the contractual process to trigger a change request being respected?",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "6802941e-41e9-42b7-9a0d-ff4b3cfd0c14",
+        "questionText": "12. 2. Are the services related to a change request getting started only after the respective CR is signed?",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "a4a6649d-f9f0-4677-8c34-d37eb181b8ca",
+        "questionText": "12. 3. In case there is a decision from Capgemini to not charge a change request, is this information being shared with the client (preferably, formalized)? This could be used in future negotiations...",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "9c75d43b-f0d0-46e3-a24e-342252b973a9",
+        "questionText": "12. 4. Are the rates defined in the contract being used to price the CR?",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "6a343f63-afdd-4b28-b243-aec1e2385ae1",
+        "questionText": "13. 1. Was the transition plan timely delivered to the client?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 0
+      },
+      {
+        "questionId": "41b7ac11-46a3-4c13-9170-3e1d308ba489",
+        "questionText": "13. 2. In case the client has decided to early terminate the contract by convenience, did it notify Capgemini as per the rules of the contract?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 0
+      },
+      {
+        "questionId": "2a831426-7dea-49f5-bd19-ec66b8d90173",
+        "questionText": "13. 3. In case the client has decided to early terminate the contract by convenience, were the contractual penalties applied?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 0
+      },
+      {
+        "questionId": "02138b7a-7b79-4959-b4cd-77167c4612da",
+        "questionText": "13. 4. In case there is a decision to renew and/or extend the original contract, was an amendment negotiated and signed?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 0
+      },
+      {
+        "questionId": "2fd7f5ab-1b70-4716-99d8-16a883304a50",
+        "questionText": "14. 1. In case of more complex disputes/negotiations, did you engage CCM to support you?",
+        "questionCategory": "14. Dispute Management",
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "surveyId": 25,
+    "surveyType": "CCM Cockpit",
+    "surveyDate": "2021-11-30T00:00:00Z",
+    "engagementId": 54504,
+    "questions": [
+      {
+        "questionId": "0e2b28ff-7c73-45b4-ac7e-c2c70b287355",
+        "questionText": "1. 1. Was a S2D session held before you start the project execution?",
+        "questionCategory": "1. Sales to Delivery (S2D) / Contractual Awareness",
+        "answer": 0
+      },
+      {
+        "questionId": "bf41034b-aaaf-4a2b-bf88-b2f1a72bd56e",
+        "questionText": "1. 2. Are there refresh contractual awareness sessions to the Delivery teams to update them on the contractual changes (CRs, amendments, new SOWs, ...)?",
+        "questionCategory": "1. Sales to Delivery (S2D) / Contractual Awareness",
+        "answer": 0
+      },
+      {
+        "questionId": "40f7c812-8641-4bbe-8533-d5e55c73fb75",
+        "questionText": "2. 1. Do you have the contract and all the correlated contractual documents?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 0
+      },
+      {
+        "questionId": "4eb396e0-9f59-46e3-870d-52d05be03ebc",
+        "questionText": "2. 2. Are the contract and all the correlated contractual documents stored in e-Collaborative?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 0
+      },
+      {
+        "questionId": "f35a13da-2411-4896-ba9d-3bc776619ba0",
+        "questionText": "2. 3. Are the contract and all the correlated contractual documents signed?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 0
+      },
+      {
+        "questionId": "0e035222-a020-4e4f-a6b3-fa856b335d20",
+        "questionText": "2. 4. Did you read the contract and all the correlated contractual documents?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 0
+      },
+      {
+        "questionId": "23fa9266-9da1-4e50-9de3-57549b0008d2",
+        "questionText": "2. 5. In case you have any doubt on the understanding of the contract and all the correlated contractual documents, did you ask for CCM support?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 0
+      },
+      {
+        "questionId": "1e595d03-a3b7-4110-bf27-0d5d1b57a02b",
+        "questionText": "2. 6. In case of specific and non usual demands from the client (e.g.: audit, benchmarking, COVID, ...), did you request the support from CCM?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 0
+      },
+      {
+        "questionId": "5d105087-e127-4020-b073-b270c8e379f2",
+        "questionText": "3. 1. Is engagement management documentation stored in e-Collaborative?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "f64efc2b-40d9-4f1c-9fd1-95948d79ac51",
+        "questionText": "3. 2. Are client status report and minutes of client meetings being systematically created, formalizing the main problems of the project?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "bd6a80f8-9dec-4ad5-828b-500615cd28e6",
+        "questionText": "3. 3. Are the problems (non related to Capgemini) and breach of obligations/assumptions being formalized to the client (via email, notification), in order to maximize our position in future negotiations?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "cf085f5c-8758-48d0-b5af-19bda322db02",
+        "questionText": "3. 4. Is the \"wording\" used in our documents protecting Capgemini from (i) misinterpretation and/or (ii) putting the client in a favorable position to claim anything against Capgemini?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "91991ea3-2afd-43a3-aab2-427c09dbb929",
+        "questionText": "3. 5. Is there a systematic process in place to ensure the collection and storage of the documents of the team leaving the project (e.g: attrition)?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "04b22bc3-d40a-4980-9a23-88bc6f519afb",
+        "questionText": "4. 1. Is the governance defined in the contract being systematically used (frequency of meetings, escalation, participants, formalization of the decisions, ...)?",
+        "questionCategory": "4. Contractual Governance",
+        "answer": 0
+      },
+      {
+        "questionId": "dd9d8bdf-b8c2-497f-a816-b147bd05285d",
+        "questionText": "5. 1. Are the services starting only after a respective service order is open?",
+        "questionCategory": "5. Service Orders",
+        "answer": 0
+      },
+      {
+        "questionId": "6e144034-fec2-427a-a36d-a32866af296b",
+        "questionText": "5. 2. Is the clause for confirming or refusing a service order being applied?",
+        "questionCategory": "5. Service Orders",
+        "answer": 0
+      },
+      {
+        "questionId": "1bb79430-0210-4334-bb2c-ef1d7bb05d53",
+        "questionText": "6. 1. Are you getting all the necessary acceptance terms, as per defined in the contract?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 0
+      },
+      {
+        "questionId": "b373db08-8d63-44d2-a70a-00a26af5f7d6",
+        "questionText": "6. 2. Is the acceptance criteria for each deliverable being respected?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 0
+      },
+      {
+        "questionId": "42bc3cb6-9930-4d92-8b8e-c99620cbffc0",
+        "questionText": "6. 3. Is the client providing the acceptance terms within the the defined contractual period?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 0
+      },
+      {
+        "questionId": "176b97fa-42c0-4772-b30f-624333c056d3",
+        "questionText": "6. 4. In case (i) the client is not providing the acceptance terms within the defined contractual period, and (ii) the contract contains a clause for deemed acceptance, are you using this clause to enforce the process of acceptance and invoicing?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 0
+      },
+      {
+        "questionId": "b1384e20-7c67-42e0-9997-470c99adb9bc",
+        "questionText": "6. 5. In case there is a clause allowing Capgemini to receive partial acceptance of deliverables not in dispute, are you using this clause to enforce the respective invoice?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 0
+      },
+      {
+        "questionId": "7b9599c3-06e1-4100-8e2f-b3644a6a6b6e",
+        "questionText": "6. 6. In case there are delays in Capgemini's activities due to dependencies from the client, did you escalate and formalize the problem using the contractual governance process?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 0
+      },
+      {
+        "questionId": "4cf1745b-423c-4a3c-8f3b-38000d6dde6c",
+        "questionText": "7. 1. Is the clause to review the volume band/baseline of tickets being properly applied, as per the frequency defined in the contract?",
+        "questionCategory": "7. Volume band/ARCs/RRCs management",
+        "answer": 0
+      },
+      {
+        "questionId": "6781302e-6fe4-4411-9b9b-86e1f147590c",
+        "questionText": "7. 2. Are the rules for ARCs (Additional Resource Charge) and RRCs (Reduced Resource Charge) being properly applied?",
+        "questionCategory": "7. Volume band/ARCs/RRCs management",
+        "answer": 0
+      },
+      {
+        "questionId": "5c69b24b-04ae-4eab-9ebc-ada8369d5aaa",
+        "questionText": "8. 1. Are the milestones being invoiced as planned in the contract?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "236bbc79-3a38-44be-8e23-f84b3cc122fd",
+        "questionText": "8. 2. In case there are services that were suspended or cancelled after have been initiated, were they invoiced (if allowed by the contract)?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "7d7d6971-beb7-41b8-8305-1bfb7a1b1821",
+        "questionText": "8. 3. Are the invoices being issued respecting the agreed dates and having all the necessary information/documentation?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "d2a08705-d560-4248-8287-45d9432052ca",
+        "questionText": "8. 4. Is the client paying within the term defined in the contract?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "9f932008-f0f6-4ce6-9333-51327bbe16cd",
+        "questionText": "8. 5. In case the client delays the payment, are the penalties being pushed towards the client?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "4986577a-9a34-4b8a-8526-4263fbb92138",
+        "questionText": "8. 6. Did you invoice the overtime hours?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "3d34a171-1607-4296-9443-43e9c036c663",
+        "questionText": "8. 7. Did you invoice the extra baseline?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "44f608e1-e930-40b1-b400-f9c4a7797e6d",
+        "questionText": "8. 8. Did you invoice the expenses?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "f470f6d9-3f8a-40e5-8190-b3888af71d4a",
+        "questionText": "9. 1. Is there a tool to manage the SLAs?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "0896947d-ed76-45fb-9a03-d06664e43724",
+        "questionText": "9. 2. If there is a tool, is it measuring the SLAs correctly?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "28313eaa-788b-4031-bb4e-cb9ac47f7b1b",
+        "questionText": "9. 3. Is the contractual process to apply a penalty being correctly applied?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "48b9f42c-dc35-44d6-a391-d5e0f89540b4",
+        "questionText": "9. 4. Is the contractual process to apply a SLA being correctly applied?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "925ce8c8-0402-4a60-8f2f-a3f083c27132",
+        "questionText": "9. 5. Is the contractual process to apply a Bonus (Earn Back) being correctly applied?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "5bfa513c-26de-4ca5-9bac-1a2454b53a3e",
+        "questionText": "9. 6. In case the penalty and/or the SLA is being applied, is the contractual cap being respected?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "712d6be3-b841-429a-a8db-a641068a228c",
+        "questionText": "9. 7. Did you use the clause to review the SLAs as per the rules defined in the contract (if applicable)?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "4c92c1ed-dc49-44d0-b7f9-c8768ba4f9cd",
+        "questionText": "9. 8. Are you using the relief clause to avoid penalties?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "38849c4b-60ff-473f-abb2-0a0379faef23",
+        "questionText": "10. 1. Is COLA being applied?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "53529b2a-c7b1-4e42-8329-8768ebc6f0a8",
+        "questionText": "10. 2. In case there was a change in tax legislation, did you charge it from the client?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "6a3375d4-60c6-45dc-ad11-7040c318f329",
+        "questionText": "10. 3. In case there are certain obligations and/or assumptions (under client's responsibility) necessary to be accomplished to apply a contractual price reduction: have they been accomplished?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "09303cd0-c067-4d5b-93df-bb28c31aff40",
+        "questionText": "10. 4. In case these obligations and/or assumptions were not accomplished, did you escalate and formalize the problem using the contractual governance provision?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "397d9881-e740-4ebb-8b80-b3fffd0556b3",
+        "questionText": "10. 5. In case (i) there were planned some automation to reduce Capgemini's cost and (ii) there are dependencies from client: have they been accomplished?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "be0ecfb1-b289-426d-bc2a-d92d360b1b04",
+        "questionText": "10. 6. In case these dependencies were not accomplished, did you escalate and formalize the problem using the contractual governance provision?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "dd5112bd-36fd-470a-9e09-090033fb18ba",
+        "questionText": "11. 1. Did you follow the contractual process with the client to use subcontractors?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "e9e80986-4eaf-4eba-959e-398806f7122e",
+        "questionText": "11. 2. Do you have the respective contracts with the suppliers?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "3dbfbc4c-4236-46db-8ae0-54e71a76e2c8",
+        "questionText": "11. 3. Are the contracts with the suppliers stored in e-Collaborative?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "000b7dbe-2847-4e64-a944-69ad318bf6cf",
+        "questionText": "11. 4. Are the contracts with the suppliers signed?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "1c3d15a4-89e2-4f88-8dbd-1f557c1d0c14",
+        "questionText": "11. 5. Did you read the contracts with the suppliers?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "f187fc4e-e48e-427e-b1dd-275942e0a6d7",
+        "questionText": "11. 6. In case you have any doubt on the understanding of the contracts with the suppliers, did you ask for CCM support?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "46edba0c-43a8-485b-a8df-6f9ef20e841d",
+        "questionText": "11. 7. Is the contractual process to accept the subcontractor's invoice being respected?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "a86c427d-9f31-45a3-b12f-a543ae49bcf2",
+        "questionText": "11. 8. Is the supplier being penalyzed as per the rules of the contract?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "ef366066-559e-417e-858e-6796486ae21c",
+        "questionText": "11. 9. Did you formalize to the subcontractor the issues caused by it?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "30a0ee04-9dd7-4731-a177-878b6d9fb87f",
+        "questionText": "11. 10. In case Capgemini is penalized by the client due to a problem originally caused by the subcontractor, did you pass the penalty to it (if feasible by the contract)?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "2cdaedee-b861-482a-97ea-f5aea12546d8",
+        "questionText": "11. 11. Are you respecting the maximum amount to be paid to the subcontractor?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "9b203d44-97d6-44cc-9e22-4949afbdc866",
+        "questionText": "11. 12. In case there are discounts planned in the contract (e.g.: depending on volumes, ...), are they being applied?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "601b9dee-a843-4db4-bacc-62df090f886f",
+        "questionText": "12. 1. Is the contractual process to trigger a change request being respected?",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "6802941e-41e9-42b7-9a0d-ff4b3cfd0c14",
+        "questionText": "12. 2. Are the services related to a change request getting started only after the respective CR is signed?",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "a4a6649d-f9f0-4677-8c34-d37eb181b8ca",
+        "questionText": "12. 3. In case there is a decision from Capgemini to not charge a change request, is this information being shared with the client (preferably, formalized)? This could be used in future negotiations...",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "9c75d43b-f0d0-46e3-a24e-342252b973a9",
+        "questionText": "12. 4. Are the rates defined in the contract being used to price the CR?",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "6a343f63-afdd-4b28-b243-aec1e2385ae1",
+        "questionText": "13. 1. Was the transition plan timely delivered to the client?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 0
+      },
+      {
+        "questionId": "41b7ac11-46a3-4c13-9170-3e1d308ba489",
+        "questionText": "13. 2. In case the client has decided to early terminate the contract by convenience, did it notify Capgemini as per the rules of the contract?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 0
+      },
+      {
+        "questionId": "2a831426-7dea-49f5-bd19-ec66b8d90173",
+        "questionText": "13. 3. In case the client has decided to early terminate the contract by convenience, were the contractual penalties applied?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 0
+      },
+      {
+        "questionId": "02138b7a-7b79-4959-b4cd-77167c4612da",
+        "questionText": "13. 4. In case there is a decision to renew and/or extend the original contract, was an amendment negotiated and signed?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 0
+      },
+      {
+        "questionId": "2fd7f5ab-1b70-4716-99d8-16a883304a50",
+        "questionText": "14. 1. In case of more complex disputes/negotiations, did you engage CCM to support you?",
+        "questionCategory": "14. Dispute Management",
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "surveyId": 25,
+    "surveyType": "CCM Cockpit",
+    "surveyDate": "2022-06-30T00:00:00Z",
+    "engagementId": 54455,
+    "questions": [
+      {
+        "questionId": "0e2b28ff-7c73-45b4-ac7e-c2c70b287355",
+        "questionText": "1. 1. Was a S2D session held before you start the project execution?",
+        "questionCategory": "1. Sales to Delivery (S2D) / Contractual Awareness",
+        "answer": 3
+      },
+      {
+        "questionId": "bf41034b-aaaf-4a2b-bf88-b2f1a72bd56e",
+        "questionText": "1. 2. Are there refresh contractual awareness sessions to the Delivery teams to update them on the contractual changes (CRs, amendments, new SOWs, ...)?",
+        "questionCategory": "1. Sales to Delivery (S2D) / Contractual Awareness",
+        "answer": 3
+      },
+      {
+        "questionId": "40f7c812-8641-4bbe-8533-d5e55c73fb75",
+        "questionText": "2. 1. Do you have the contract and all the correlated contractual documents?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "4eb396e0-9f59-46e3-870d-52d05be03ebc",
+        "questionText": "2. 2. Are the contract and all the correlated contractual documents stored in e-Collaborative?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "f35a13da-2411-4896-ba9d-3bc776619ba0",
+        "questionText": "2. 3. Are the contract and all the correlated contractual documents signed?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "0e035222-a020-4e4f-a6b3-fa856b335d20",
+        "questionText": "2. 4. Did you read the contract and all the correlated contractual documents?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 0
+      },
+      {
+        "questionId": "23fa9266-9da1-4e50-9de3-57549b0008d2",
+        "questionText": "2. 5. In case you have any doubt on the understanding of the contract and all the correlated contractual documents, did you ask for CCM support?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 0
+      },
+      {
+        "questionId": "1e595d03-a3b7-4110-bf27-0d5d1b57a02b",
+        "questionText": "2. 6. In case of specific and non usual demands from the client (e.g.: audit, benchmarking, COVID, ...), did you request the support from CCM?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 0
+      },
+      {
+        "questionId": "5d105087-e127-4020-b073-b270c8e379f2",
+        "questionText": "3. 1. Is engagement management documentation stored in e-Collaborative?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "f64efc2b-40d9-4f1c-9fd1-95948d79ac51",
+        "questionText": "3. 2. Are client status report and minutes of client meetings being systematically created, formalizing the main problems of the project?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "bd6a80f8-9dec-4ad5-828b-500615cd28e6",
+        "questionText": "3. 3. Are the problems (non related to Capgemini) and breach of obligations/assumptions being formalized to the client (via email, notification), in order to maximize our position in future negotiations?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "cf085f5c-8758-48d0-b5af-19bda322db02",
+        "questionText": "3. 4. Is the \"wording\" used in our documents protecting Capgemini from (i) misinterpretation and/or (ii) putting the client in a favorable position to claim anything against Capgemini?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "91991ea3-2afd-43a3-aab2-427c09dbb929",
+        "questionText": "3. 5. Is there a systematic process in place to ensure the collection and storage of the documents of the team leaving the project (e.g: attrition)?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "04b22bc3-d40a-4980-9a23-88bc6f519afb",
+        "questionText": "4. 1. Is the governance defined in the contract being systematically used (frequency of meetings, escalation, participants, formalization of the decisions, ...)?",
+        "questionCategory": "4. Contractual Governance",
+        "answer": 0
+      },
+      {
+        "questionId": "dd9d8bdf-b8c2-497f-a816-b147bd05285d",
+        "questionText": "5. 1. Are the services starting only after a respective service order is open?",
+        "questionCategory": "5. Service Orders",
+        "answer": 0
+      },
+      {
+        "questionId": "6e144034-fec2-427a-a36d-a32866af296b",
+        "questionText": "5. 2. Is the clause for confirming or refusing a service order being applied?",
+        "questionCategory": "5. Service Orders",
+        "answer": 0
+      },
+      {
+        "questionId": "1bb79430-0210-4334-bb2c-ef1d7bb05d53",
+        "questionText": "6. 1. Are you getting all the necessary acceptance terms, as per defined in the contract?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 1
+      },
+      {
+        "questionId": "b373db08-8d63-44d2-a70a-00a26af5f7d6",
+        "questionText": "6. 2. Is the acceptance criteria for each deliverable being respected?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 1
+      },
+      {
+        "questionId": "42bc3cb6-9930-4d92-8b8e-c99620cbffc0",
+        "questionText": "6. 3. Is the client providing the acceptance terms within the the defined contractual period?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 1
+      },
+      {
+        "questionId": "176b97fa-42c0-4772-b30f-624333c056d3",
+        "questionText": "6. 4. In case (i) the client is not providing the acceptance terms within the defined contractual period, and (ii) the contract contains a clause for deemed acceptance, are you using this clause to enforce the process of acceptance and invoicing?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 1
+      },
+      {
+        "questionId": "b1384e20-7c67-42e0-9997-470c99adb9bc",
+        "questionText": "6. 5. In case there is a clause allowing Capgemini to receive partial acceptance of deliverables not in dispute, are you using this clause to enforce the respective invoice?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 1
+      },
+      {
+        "questionId": "7b9599c3-06e1-4100-8e2f-b3644a6a6b6e",
+        "questionText": "6. 6. In case there are delays in Capgemini's activities due to dependencies from the client, did you escalate and formalize the problem using the contractual governance process?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 1
+      },
+      {
+        "questionId": "4cf1745b-423c-4a3c-8f3b-38000d6dde6c",
+        "questionText": "7. 1. Is the clause to review the volume band/baseline of tickets being properly applied, as per the frequency defined in the contract?",
+        "questionCategory": "7. Volume band/ARCs/RRCs management",
+        "answer": 0
+      },
+      {
+        "questionId": "6781302e-6fe4-4411-9b9b-86e1f147590c",
+        "questionText": "7. 2. Are the rules for ARCs (Additional Resource Charge) and RRCs (Reduced Resource Charge) being properly applied?",
+        "questionCategory": "7. Volume band/ARCs/RRCs management",
+        "answer": 0
+      },
+      {
+        "questionId": "5c69b24b-04ae-4eab-9ebc-ada8369d5aaa",
+        "questionText": "8. 1. Are the milestones being invoiced as planned in the contract?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "236bbc79-3a38-44be-8e23-f84b3cc122fd",
+        "questionText": "8. 2. In case there are services that were suspended or cancelled after have been initiated, were they invoiced (if allowed by the contract)?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "7d7d6971-beb7-41b8-8305-1bfb7a1b1821",
+        "questionText": "8. 3. Are the invoices being issued respecting the agreed dates and having all the necessary information/documentation?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "d2a08705-d560-4248-8287-45d9432052ca",
+        "questionText": "8. 4. Is the client paying within the term defined in the contract?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "9f932008-f0f6-4ce6-9333-51327bbe16cd",
+        "questionText": "8. 5. In case the client delays the payment, are the penalties being pushed towards the client?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "4986577a-9a34-4b8a-8526-4263fbb92138",
+        "questionText": "8. 6. Did you invoice the overtime hours?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "3d34a171-1607-4296-9443-43e9c036c663",
+        "questionText": "8. 7. Did you invoice the extra baseline?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "44f608e1-e930-40b1-b400-f9c4a7797e6d",
+        "questionText": "8. 8. Did you invoice the expenses?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "f470f6d9-3f8a-40e5-8190-b3888af71d4a",
+        "questionText": "9. 1. Is there a tool to manage the SLAs?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "0896947d-ed76-45fb-9a03-d06664e43724",
+        "questionText": "9. 2. If there is a tool, is it measuring the SLAs correctly?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "28313eaa-788b-4031-bb4e-cb9ac47f7b1b",
+        "questionText": "9. 3. Is the contractual process to apply a penalty being correctly applied?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "48b9f42c-dc35-44d6-a391-d5e0f89540b4",
+        "questionText": "9. 4. Is the contractual process to apply a SLA being correctly applied?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "925ce8c8-0402-4a60-8f2f-a3f083c27132",
+        "questionText": "9. 5. Is the contractual process to apply a Bonus (Earn Back) being correctly applied?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "5bfa513c-26de-4ca5-9bac-1a2454b53a3e",
+        "questionText": "9. 6. In case the penalty and/or the SLA is being applied, is the contractual cap being respected?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "712d6be3-b841-429a-a8db-a641068a228c",
+        "questionText": "9. 7. Did you use the clause to review the SLAs as per the rules defined in the contract (if applicable)?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "4c92c1ed-dc49-44d0-b7f9-c8768ba4f9cd",
+        "questionText": "9. 8. Are you using the relief clause to avoid penalties?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "38849c4b-60ff-473f-abb2-0a0379faef23",
+        "questionText": "10. 1. Is COLA being applied?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "53529b2a-c7b1-4e42-8329-8768ebc6f0a8",
+        "questionText": "10. 2. In case there was a change in tax legislation, did you charge it from the client?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "6a3375d4-60c6-45dc-ad11-7040c318f329",
+        "questionText": "10. 3. In case there are certain obligations and/or assumptions (under client's responsibility) necessary to be accomplished to apply a contractual price reduction: have they been accomplished?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "09303cd0-c067-4d5b-93df-bb28c31aff40",
+        "questionText": "10. 4. In case these obligations and/or assumptions were not accomplished, did you escalate and formalize the problem using the contractual governance provision?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "397d9881-e740-4ebb-8b80-b3fffd0556b3",
+        "questionText": "10. 5. In case (i) there were planned some automation to reduce Capgemini's cost and (ii) there are dependencies from client: have they been accomplished?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "be0ecfb1-b289-426d-bc2a-d92d360b1b04",
+        "questionText": "10. 6. In case these dependencies were not accomplished, did you escalate and formalize the problem using the contractual governance provision?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "dd5112bd-36fd-470a-9e09-090033fb18ba",
+        "questionText": "11. 1. Did you follow the contractual process with the client to use subcontractors?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "e9e80986-4eaf-4eba-959e-398806f7122e",
+        "questionText": "11. 2. Do you have the respective contracts with the suppliers?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "3dbfbc4c-4236-46db-8ae0-54e71a76e2c8",
+        "questionText": "11. 3. Are the contracts with the suppliers stored in e-Collaborative?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "000b7dbe-2847-4e64-a944-69ad318bf6cf",
+        "questionText": "11. 4. Are the contracts with the suppliers signed?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "1c3d15a4-89e2-4f88-8dbd-1f557c1d0c14",
+        "questionText": "11. 5. Did you read the contracts with the suppliers?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "f187fc4e-e48e-427e-b1dd-275942e0a6d7",
+        "questionText": "11. 6. In case you have any doubt on the understanding of the contracts with the suppliers, did you ask for CCM support?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "46edba0c-43a8-485b-a8df-6f9ef20e841d",
+        "questionText": "11. 7. Is the contractual process to accept the subcontractor's invoice being respected?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "a86c427d-9f31-45a3-b12f-a543ae49bcf2",
+        "questionText": "11. 8. Is the supplier being penalyzed as per the rules of the contract?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "ef366066-559e-417e-858e-6796486ae21c",
+        "questionText": "11. 9. Did you formalize to the subcontractor the issues caused by it?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "30a0ee04-9dd7-4731-a177-878b6d9fb87f",
+        "questionText": "11. 10. In case Capgemini is penalized by the client due to a problem originally caused by the subcontractor, did you pass the penalty to it (if feasible by the contract)?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "2cdaedee-b861-482a-97ea-f5aea12546d8",
+        "questionText": "11. 11. Are you respecting the maximum amount to be paid to the subcontractor?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "9b203d44-97d6-44cc-9e22-4949afbdc866",
+        "questionText": "11. 12. In case there are discounts planned in the contract (e.g.: depending on volumes, ...), are they being applied?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "601b9dee-a843-4db4-bacc-62df090f886f",
+        "questionText": "12. 1. Is the contractual process to trigger a change request being respected?",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "6802941e-41e9-42b7-9a0d-ff4b3cfd0c14",
+        "questionText": "12. 2. Are the services related to a change request getting started only after the respective CR is signed?",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "a4a6649d-f9f0-4677-8c34-d37eb181b8ca",
+        "questionText": "12. 3. In case there is a decision from Capgemini to not charge a change request, is this information being shared with the client (preferably, formalized)? This could be used in future negotiations...",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "9c75d43b-f0d0-46e3-a24e-342252b973a9",
+        "questionText": "12. 4. Are the rates defined in the contract being used to price the CR?",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "6a343f63-afdd-4b28-b243-aec1e2385ae1",
+        "questionText": "13. 1. Was the transition plan timely delivered to the client?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 1
+      },
+      {
+        "questionId": "41b7ac11-46a3-4c13-9170-3e1d308ba489",
+        "questionText": "13. 2. In case the client has decided to early terminate the contract by convenience, did it notify Capgemini as per the rules of the contract?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 1
+      },
+      {
+        "questionId": "2a831426-7dea-49f5-bd19-ec66b8d90173",
+        "questionText": "13. 3. In case the client has decided to early terminate the contract by convenience, were the contractual penalties applied?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 1
+      },
+      {
+        "questionId": "02138b7a-7b79-4959-b4cd-77167c4612da",
+        "questionText": "13. 4. In case there is a decision to renew and/or extend the original contract, was an amendment negotiated and signed?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 1
+      },
+      {
+        "questionId": "2fd7f5ab-1b70-4716-99d8-16a883304a50",
+        "questionText": "14. 1. In case of more complex disputes/negotiations, did you engage CCM to support you?",
+        "questionCategory": "14. Dispute Management",
+        "answer": 4
+      }
+    ]
+  },
+  {
+    "surveyId": 25,
+    "surveyType": "CCM Cockpit",
+    "surveyDate": "2022-07-31T00:00:00Z",
+    "engagementId": 55704,
+    "questions": [
+      {
+        "questionId": "0e2b28ff-7c73-45b4-ac7e-c2c70b287355",
+        "questionText": "1. 1. Was a S2D session held before you start the project execution?",
+        "questionCategory": "1. Sales to Delivery (S2D) / Contractual Awareness",
+        "answer": 4
+      },
+      {
+        "questionId": "bf41034b-aaaf-4a2b-bf88-b2f1a72bd56e",
+        "questionText": "1. 2. Are there refresh contractual awareness sessions to the Delivery teams to update them on the contractual changes (CRs, amendments, new SOWs, ...)?",
+        "questionCategory": "1. Sales to Delivery (S2D) / Contractual Awareness",
+        "answer": 5
+      },
+      {
+        "questionId": "40f7c812-8641-4bbe-8533-d5e55c73fb75",
+        "questionText": "2. 1. Do you have the contract and all the correlated contractual documents?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 1
+      },
+      {
+        "questionId": "4eb396e0-9f59-46e3-870d-52d05be03ebc",
+        "questionText": "2. 2. Are the contract and all the correlated contractual documents stored in e-Collaborative?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "f35a13da-2411-4896-ba9d-3bc776619ba0",
+        "questionText": "2. 3. Are the contract and all the correlated contractual documents signed?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "0e035222-a020-4e4f-a6b3-fa856b335d20",
+        "questionText": "2. 4. Did you read the contract and all the correlated contractual documents?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "23fa9266-9da1-4e50-9de3-57549b0008d2",
+        "questionText": "2. 5. In case you have any doubt on the understanding of the contract and all the correlated contractual documents, did you ask for CCM support?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "1e595d03-a3b7-4110-bf27-0d5d1b57a02b",
+        "questionText": "2. 6. In case of specific and non usual demands from the client (e.g.: audit, benchmarking, COVID, ...), did you request the support from CCM?",
+        "questionCategory": "2. Contract with the Client",
+        "answer": 4
+      },
+      {
+        "questionId": "5d105087-e127-4020-b073-b270c8e379f2",
+        "questionText": "3. 1. Is engagement management documentation stored in e-Collaborative?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "f64efc2b-40d9-4f1c-9fd1-95948d79ac51",
+        "questionText": "3. 2. Are client status report and minutes of client meetings being systematically created, formalizing the main problems of the project?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "bd6a80f8-9dec-4ad5-828b-500615cd28e6",
+        "questionText": "3. 3. Are the problems (non related to Capgemini) and breach of obligations/assumptions being formalized to the client (via email, notification), in order to maximize our position in future negotiations?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "cf085f5c-8758-48d0-b5af-19bda322db02",
+        "questionText": "3. 4. Is the \"wording\" used in our documents protecting Capgemini from (i) misinterpretation and/or (ii) putting the client in a favorable position to claim anything against Capgemini?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "91991ea3-2afd-43a3-aab2-427c09dbb929",
+        "questionText": "3. 5. Is there a systematic process in place to ensure the collection and storage of the documents of the team leaving the project (e.g: attrition)?",
+        "questionCategory": "3. Project Documentation, Evidences and Notifications",
+        "answer": 0
+      },
+      {
+        "questionId": "04b22bc3-d40a-4980-9a23-88bc6f519afb",
+        "questionText": "4. 1. Is the governance defined in the contract being systematically used (frequency of meetings, escalation, participants, formalization of the decisions, ...)?",
+        "questionCategory": "4. Contractual Governance",
+        "answer": 0
+      },
+      {
+        "questionId": "dd9d8bdf-b8c2-497f-a816-b147bd05285d",
+        "questionText": "5. 1. Are the services starting only after a respective service order is open?",
+        "questionCategory": "5. Service Orders",
+        "answer": 0
+      },
+      {
+        "questionId": "6e144034-fec2-427a-a36d-a32866af296b",
+        "questionText": "5. 2. Is the clause for confirming or refusing a service order being applied?",
+        "questionCategory": "5. Service Orders",
+        "answer": 0
+      },
+      {
+        "questionId": "1bb79430-0210-4334-bb2c-ef1d7bb05d53",
+        "questionText": "6. 1. Are you getting all the necessary acceptance terms, as per defined in the contract?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 0
+      },
+      {
+        "questionId": "b373db08-8d63-44d2-a70a-00a26af5f7d6",
+        "questionText": "6. 2. Is the acceptance criteria for each deliverable being respected?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 0
+      },
+      {
+        "questionId": "42bc3cb6-9930-4d92-8b8e-c99620cbffc0",
+        "questionText": "6. 3. Is the client providing the acceptance terms within the the defined contractual period?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 0
+      },
+      {
+        "questionId": "176b97fa-42c0-4772-b30f-624333c056d3",
+        "questionText": "6. 4. In case (i) the client is not providing the acceptance terms within the defined contractual period, and (ii) the contract contains a clause for deemed acceptance, are you using this clause to enforce the process of acceptance and invoicing?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 0
+      },
+      {
+        "questionId": "b1384e20-7c67-42e0-9997-470c99adb9bc",
+        "questionText": "6. 5. In case there is a clause allowing Capgemini to receive partial acceptance of deliverables not in dispute, are you using this clause to enforce the respective invoice?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 0
+      },
+      {
+        "questionId": "7b9599c3-06e1-4100-8e2f-b3644a6a6b6e",
+        "questionText": "6. 6. In case there are delays in Capgemini's activities due to dependencies from the client, did you escalate and formalize the problem using the contractual governance process?",
+        "questionCategory": "6. Deliverables and Acceptance",
+        "answer": 0
+      },
+      {
+        "questionId": "4cf1745b-423c-4a3c-8f3b-38000d6dde6c",
+        "questionText": "7. 1. Is the clause to review the volume band/baseline of tickets being properly applied, as per the frequency defined in the contract?",
+        "questionCategory": "7. Volume band/ARCs/RRCs management",
+        "answer": 0
+      },
+      {
+        "questionId": "6781302e-6fe4-4411-9b9b-86e1f147590c",
+        "questionText": "7. 2. Are the rules for ARCs (Additional Resource Charge) and RRCs (Reduced Resource Charge) being properly applied?",
+        "questionCategory": "7. Volume band/ARCs/RRCs management",
+        "answer": 0
+      },
+      {
+        "questionId": "5c69b24b-04ae-4eab-9ebc-ada8369d5aaa",
+        "questionText": "8. 1. Are the milestones being invoiced as planned in the contract?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "236bbc79-3a38-44be-8e23-f84b3cc122fd",
+        "questionText": "8. 2. In case there are services that were suspended or cancelled after have been initiated, were they invoiced (if allowed by the contract)?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "7d7d6971-beb7-41b8-8305-1bfb7a1b1821",
+        "questionText": "8. 3. Are the invoices being issued respecting the agreed dates and having all the necessary information/documentation?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "d2a08705-d560-4248-8287-45d9432052ca",
+        "questionText": "8. 4. Is the client paying within the term defined in the contract?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "9f932008-f0f6-4ce6-9333-51327bbe16cd",
+        "questionText": "8. 5. In case the client delays the payment, are the penalties being pushed towards the client?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "4986577a-9a34-4b8a-8526-4263fbb92138",
+        "questionText": "8. 6. Did you invoice the overtime hours?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "3d34a171-1607-4296-9443-43e9c036c663",
+        "questionText": "8. 7. Did you invoice the extra baseline?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "44f608e1-e930-40b1-b400-f9c4a7797e6d",
+        "questionText": "8. 8. Did you invoice the expenses?",
+        "questionCategory": "8. Invoice and Payment",
+        "answer": 0
+      },
+      {
+        "questionId": "f470f6d9-3f8a-40e5-8190-b3888af71d4a",
+        "questionText": "9. 1. Is there a tool to manage the SLAs?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "0896947d-ed76-45fb-9a03-d06664e43724",
+        "questionText": "9. 2. If there is a tool, is it measuring the SLAs correctly?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "28313eaa-788b-4031-bb4e-cb9ac47f7b1b",
+        "questionText": "9. 3. Is the contractual process to apply a penalty being correctly applied?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "48b9f42c-dc35-44d6-a391-d5e0f89540b4",
+        "questionText": "9. 4. Is the contractual process to apply a SLA being correctly applied?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "925ce8c8-0402-4a60-8f2f-a3f083c27132",
+        "questionText": "9. 5. Is the contractual process to apply a Bonus (Earn Back) being correctly applied?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "5bfa513c-26de-4ca5-9bac-1a2454b53a3e",
+        "questionText": "9. 6. In case the penalty and/or the SLA is being applied, is the contractual cap being respected?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "712d6be3-b841-429a-a8db-a641068a228c",
+        "questionText": "9. 7. Did you use the clause to review the SLAs as per the rules defined in the contract (if applicable)?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "4c92c1ed-dc49-44d0-b7f9-c8768ba4f9cd",
+        "questionText": "9. 8. Are you using the relief clause to avoid penalties?",
+        "questionCategory": "9. Penalties, SLAs and Bonus",
+        "answer": 0
+      },
+      {
+        "questionId": "38849c4b-60ff-473f-abb2-0a0379faef23",
+        "questionText": "10. 1. Is COLA being applied?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "53529b2a-c7b1-4e42-8329-8768ebc6f0a8",
+        "questionText": "10. 2. In case there was a change in tax legislation, did you charge it from the client?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "6a3375d4-60c6-45dc-ad11-7040c318f329",
+        "questionText": "10. 3. In case there are certain obligations and/or assumptions (under client's responsibility) necessary to be accomplished to apply a contractual price reduction: have they been accomplished?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "09303cd0-c067-4d5b-93df-bb28c31aff40",
+        "questionText": "10. 4. In case these obligations and/or assumptions were not accomplished, did you escalate and formalize the problem using the contractual governance provision?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "397d9881-e740-4ebb-8b80-b3fffd0556b3",
+        "questionText": "10. 5. In case (i) there were planned some automation to reduce Capgemini's cost and (ii) there are dependencies from client: have they been accomplished?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "be0ecfb1-b289-426d-bc2a-d92d360b1b04",
+        "questionText": "10. 6. In case these dependencies were not accomplished, did you escalate and formalize the problem using the contractual governance provision?",
+        "questionCategory": "10. Price Adjustment or Cost Reduction",
+        "answer": 0
+      },
+      {
+        "questionId": "dd5112bd-36fd-470a-9e09-090033fb18ba",
+        "questionText": "11. 1. Did you follow the contractual process with the client to use subcontractors?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 5
+      },
+      {
+        "questionId": "e9e80986-4eaf-4eba-959e-398806f7122e",
+        "questionText": "11. 2. Do you have the respective contracts with the suppliers?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "3dbfbc4c-4236-46db-8ae0-54e71a76e2c8",
+        "questionText": "11. 3. Are the contracts with the suppliers stored in e-Collaborative?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "000b7dbe-2847-4e64-a944-69ad318bf6cf",
+        "questionText": "11. 4. Are the contracts with the suppliers signed?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "1c3d15a4-89e2-4f88-8dbd-1f557c1d0c14",
+        "questionText": "11. 5. Did you read the contracts with the suppliers?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "f187fc4e-e48e-427e-b1dd-275942e0a6d7",
+        "questionText": "11. 6. In case you have any doubt on the understanding of the contracts with the suppliers, did you ask for CCM support?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "46edba0c-43a8-485b-a8df-6f9ef20e841d",
+        "questionText": "11. 7. Is the contractual process to accept the subcontractor's invoice being respected?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "a86c427d-9f31-45a3-b12f-a543ae49bcf2",
+        "questionText": "11. 8. Is the supplier being penalyzed as per the rules of the contract?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "ef366066-559e-417e-858e-6796486ae21c",
+        "questionText": "11. 9. Did you formalize to the subcontractor the issues caused by it?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "30a0ee04-9dd7-4731-a177-878b6d9fb87f",
+        "questionText": "11. 10. In case Capgemini is penalized by the client due to a problem originally caused by the subcontractor, did you pass the penalty to it (if feasible by the contract)?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "2cdaedee-b861-482a-97ea-f5aea12546d8",
+        "questionText": "11. 11. Are you respecting the maximum amount to be paid to the subcontractor?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "9b203d44-97d6-44cc-9e22-4949afbdc866",
+        "questionText": "11. 12. In case there are discounts planned in the contract (e.g.: depending on volumes, ...), are they being applied?",
+        "questionCategory": "11. Subcontractors",
+        "answer": 0
+      },
+      {
+        "questionId": "601b9dee-a843-4db4-bacc-62df090f886f",
+        "questionText": "12. 1. Is the contractual process to trigger a change request being respected?",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "6802941e-41e9-42b7-9a0d-ff4b3cfd0c14",
+        "questionText": "12. 2. Are the services related to a change request getting started only after the respective CR is signed?",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "a4a6649d-f9f0-4677-8c34-d37eb181b8ca",
+        "questionText": "12. 3. In case there is a decision from Capgemini to not charge a change request, is this information being shared with the client (preferably, formalized)? This could be used in future negotiations...",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "9c75d43b-f0d0-46e3-a24e-342252b973a9",
+        "questionText": "12. 4. Are the rates defined in the contract being used to price the CR?",
+        "questionCategory": "12. Change Management",
+        "answer": 0
+      },
+      {
+        "questionId": "6a343f63-afdd-4b28-b243-aec1e2385ae1",
+        "questionText": "13. 1. Was the transition plan timely delivered to the client?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 0
+      },
+      {
+        "questionId": "41b7ac11-46a3-4c13-9170-3e1d308ba489",
+        "questionText": "13. 2. In case the client has decided to early terminate the contract by convenience, did it notify Capgemini as per the rules of the contract?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 0
+      },
+      {
+        "questionId": "2a831426-7dea-49f5-bd19-ec66b8d90173",
+        "questionText": "13. 3. In case the client has decided to early terminate the contract by convenience, were the contractual penalties applied?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 0
+      },
+      {
+        "questionId": "02138b7a-7b79-4959-b4cd-77167c4612da",
+        "questionText": "13. 4. In case there is a decision to renew and/or extend the original contract, was an amendment negotiated and signed?",
+        "questionCategory": "13. Contract Closure",
+        "answer": 0
+      },
+      {
+        "questionId": "2fd7f5ab-1b70-4716-99d8-16a883304a50",
+        "questionText": "14. 1. In case of more complex disputes/negotiations, did you engage CCM to support you?",
+        "questionCategory": "14. Dispute Management",
+        "answer": 0
+      }
+    ]
+  }
+]
